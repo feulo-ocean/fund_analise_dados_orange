@@ -1,0 +1,15 @@
+História de crédito,Dívida,Garantias,Renda Anual,Risco
+Ruim,Alta,Nenhuma,< 15000,Alto
+Desconhecida,Alta,Nenhuma,>= 15000 e <=35000,Alto
+Desconhecida,Baixa,Nenhuma,>= 15000 e <=35000,Moderado
+Desconhecida,Baixa,Nenhuma,> 35000,Alto
+Desconhecida,Baixa,Nenhuma,> 35000,Baixo
+Desconhecida,Baixa,Adequada,> 35000,Baixo
+Ruim,Baixa,Nenhuma,< 15000,Alto
+Ruim,Baixa,Adequada,> 35000,Moderado
+Boa,Baixa,Nenhuma,> 35000,Baixo
+Boa,Alta,Adequada,> 35000,Baixo
+Boa,Alta,Nenhuma,< 15000,Alto
+Boa,Alta,Nenhuma,>= 15000 e <=35000,Moderado
+Boa,Alta,Nenhuma,> 35000,Baixo
+Ruim,Alta,Nenhuma,>= 15000 e <=35000,Alto
